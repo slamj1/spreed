@@ -33,9 +33,9 @@ And in the works for the [coming versions](https://github.com/nextcloud/spreed/m
 	<screenshot>https://raw.githubusercontent.com/nextcloud/spreed/master/docs/spreed-in-action.png</screenshot>
 	<screenshot>https://raw.githubusercontent.com/nextcloud/spreed/master/docs/inviting-people.png</screenshot>
 
-	<version>1.2</version>
+	<version>1.2.1</version>
 	<dependencies>
-		<nextcloud min-version="11" max-version="12" />
+		<nextcloud min-version="11" max-version="11" />
 	</dependencies>
 	<types>
 		<prevent_group_restriction />
